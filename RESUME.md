@@ -1,62 +1,77 @@
-# Jane Doe
-Data Analyst
-| [example@gmail.com](mailto:example@gmail.com)
-| [+254 777 777 777](tel:+254777777777)
+# Christian Piechotta
+PHP Developer
+| [confuenze@gmail.com](mailto:confuenze@gmail.com)
+| [+49 012 345 678](tel:+49012345678)
 | [example.com](https://example.com)
 | [linkedin.com/in/janedoe](https://www2.linkedin.com/in/janedoe/)
 
 ## About me
-Data-driven professional with a passion for uncovering insights from data to solve real-world business problems. Skilled in Python, SQL, and Tableau, with a strong background in statistical analysis. In my free time, I enjoy hiking and exploring new technology.
+PHP professional.
 
 ## Work Experience
 
-### Data Analyst, ABC Tech Solutions
-*January 2023 - Present*
+### PHP Developer, DreamRobot Gmbh
+*July 2025 - Present*
 
-- Utilize data analysis to optimize business operations and increase efficiency
-- Collaborate with cross-functional teams to develop predictive models
-- Lead data visualization projects to present findings to stakeholders
+!Bielefeld
+- Hub for ecommerce services 
+- Maintainance & development
 
-### Junior Data Analyst, XYZ Corp
-*June 2021 - December 2022*
+### Fullstack-Developer, Wizmo GmbH
+*September 2020 - June 2024*
 
-- Assisted in cleaning and analyzing large datasets for business insights
-- Supported the development of dashboards for real-time business tracking
-- Provided actionable recommendations to improve marketing strategies
+!Berlin
+
+### Web-Developer, igefa E-Business GmbH
+*January 2019 - February 2020*
+
+!Berlin
+
+### Web-Developer, ESI
+*April 2017 - December 2018*
+
+!Berlin
+
+### Software-Developer Web, Smartexpose GmbH
+*December 2015 - November 2016*
+
+!Berlin
+
+### Software-Developer Web, Amadeus FiRe AG
+*March 2015 - November 2015*
+
+!Berlin
+
+### Software-Developer Web, Mentana-Claimsoft GmbH (FP)
+*Jan 2013 - March 2014*
+
+!Fürstenwalde
+
 
 ## Education
 
-### Bachelor of Science in Data Science  
-*University of Nairobi*  
-*2017 - 2021*
+### Fachinformatiker für Anwendungsentwicklung  
+*Mentana-Claimsoft GmbH*  
+*2010 - 2012*
 
 ## Skills
 
-- Data Analysis: Python, SQL, R
-- Visualization Tools: Tableau, PowerBI
-- Machine Learning: Scikit-learn, TensorFlow
-- Statistical Analysis: STATA, SPSS
+TBD
 
 ## Certifications
 
-- Google Data Analytics Professional Certificate - 2022
-- Microsoft Certified: Azure Data Scientist Associate - 2021
+TBD
 
 ## Projects
 
-### Sales Forecasting Model
-Developed a sales forecasting model using machine learning algorithms to predict future sales trends based on historical data.
-
-### Customer Segmentation Analysis
-Conducted customer segmentation analysis using clustering techniques to enhance targeted marketing campaigns.
-
 ## Languages
 
-- English: Fluent
-- Swahili: Native
+- English: Good
+- German: Native
 
 ## Interests
 
+TBD
 - Hiking
 - Technology
 - Photography
