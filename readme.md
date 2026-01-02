@@ -1,55 +1,77 @@
-# Quarto Resume Template
+# Christian Piechotta
+PHP Developer
+| [confuenze@gmail.com](mailto:confuenze@gmail.com)
+| [+49 012 345 678](tel:+49012345678)
+| [example.com](https://example.com)
+| [linkedin.com/in/janedoe](https://www2.linkedin.com/in/janedoe/)
 
-Create a professional resume website and PDF for free using GitHub Pages and Quarto!
+## About me
+PHP professional.
 
-![Sample Quarto Resume - Jane Doe](image.png)
+## Work Experience
 
-## 🌟 Features
+### PHP Developer, DreamRobot Gmbh
+*July 2025 - Present*
 
-- **Dual Format**: Get both an HTML website and a PDF version of your resume
-- **Easy Updates**: Simple text-based resume storage with automatic regeneration
-- **Free Hosting**: Utilize GitHub Pages for cost-free web hosting
-- **Professional Domain**: Your site at `<your-github-username>.github.io`
-- **Version Control**: Track changes and revert if needed
-- **Full Content Control**: Unlike third-party platforms, you own your data
-- **Trusted Platform**: Leverage GitHub's credibility in the tech industry
+!Bielefeld
+- Hub for ecommerce services 
+- Maintainance & development
 
-## 🚀 Quick Start
+### Fullstack-Developer, Wizmo GmbH
+*September 2020 - June 2024*
 
-1. **Use this template** or fork the repository
-2. Name your repository `<your-github-username>.github.io`
-3. Edit `RESUME.md` with your information
-4. Customize `RESUME.json` and `_quarto.yml` (optional)
-5. Enable GitHub Pages in your repository settings
+!Berlin
 
-Your resume will be live at `https://<your-github-username>.github.io`!
+### Web-Developer, igefa E-Business GmbH
+*January 2019 - February 2020*
 
-For detailed instructions, check out our [step-by-step guide](https://toknow.ai/posts/quarto-resume-template/).
+!Berlin
 
-## 📘 Resources
+### Web-Developer, ESI
+*April 2017 - December 2018*
 
-- [Sample Resume Website](https://toknow.ai/quarto-resume-template/)
-- [Sample Resume PDF](https://toknow.ai/quarto-resume-template/index.pdf)
-- [Detailed Blog Post](https://toknow.ai/posts/quarto-resume-template/)
+!Berlin
 
-## 🛠 Customization
+### Software-Developer Web, Smartexpose GmbH
+*December 2015 - November 2016*
 
-- Edit `RESUME.md` to update your resume content
-- Modify `RESUME.json` to change site metadata
-- Adjust `_quarto.yml` to alter the site's theme or layout
+!Berlin
 
-## 🤝 Contributing
+### Software-Developer Web, Amadeus FiRe AG
+*March 2015 - November 2015*
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+!Berlin
 
-## 📄 License
+### Software-Developer Web, Mentana-Claimsoft GmbH (FP)
+*Jan 2013 - March 2014*
 
-This project is open source and available under the [GNU General Public License v3.0 (GPLv3).](LICENSE).
+!Fürstenwalde
 
-## 💬 Support
 
-If you encounter any issues or have questions, please [open an issue](https://github.com/ToKnow-ai/quarto-resume-template/issues) in this repository.
+## Education
 
----
+### Fachinformatiker für Anwendungsentwicklung  
+*Mentana-Claimsoft GmbH*  
+*2010 - 2012*
 
-Happy job hunting, and enjoy your new resume website! 🎉
+## Skills
+
+TBD
+
+## Certifications
+
+TBD
+
+## Projects
+
+## Languages
+
+- English: Good
+- German: Native
+
+## Interests
+
+TBD
+- Hiking
+- Technology
+- Photography
